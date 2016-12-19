@@ -1,2 +1,2 @@
 # Graphics-static-object
-Computer Graphics project
+Computer Graphics course project
